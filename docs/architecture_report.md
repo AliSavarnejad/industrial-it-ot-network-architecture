@@ -4,6 +4,8 @@
 
 This document describes a simplified industrial IT/OT network architecture for a PLC-based production environment.
 
+This architecture reflects communication patterns commonly found in PLC-based production environments, structured into a documented IT/OT reference model.
+
 The architecture separates enterprise IT systems, the industrial DMZ, OT production systems, machine-cell systems, and field-level devices into distinct zones. Communication between zones is allowed only through documented and controlled paths.
 
 ## Zone Model
