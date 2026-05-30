@@ -60,3 +60,9 @@ Remote access should be:
 - Controlled by firewall rules
 - Routed through a jump server
 - Blocked from direct PLC access unless explicitly approved and justified
+
+## Data Broker Role
+
+The data broker in the Industrial DMZ is a controlled extraction point between OT and higher-level systems. It should not act as a transparent pass-through to PLCs or machine-cell networks.
+
+Its role is to receive selected production data from approved OT systems, filter or structure the data where required, and make only approved information available to higher-level systems such as MES, reporting tools, or dashboards.
