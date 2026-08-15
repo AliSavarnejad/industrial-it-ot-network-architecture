@@ -1,6 +1,9 @@
 # Industrial IT/OT Network Architecture
 
-A conceptual reference design for segmented factory connectivity, controlled production data exchange, and secure remote access in PLC-based production environments.
+Reference design for a segmented industrial IT/OT network in a
+PLC-based production environment, covering factory network
+segmentation, controlled production data exchange, and secure remote
+access.
 
 ## Architecture Overview
 
